@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<!-- Pizza Properties -->
+    <string name="app_name">pizza comparación</string>
+    <string name="selling_price">{0} {1}</string>
+    <string name="name">nombre</string>
+    <string name="diameter">diámetro</string>
+    <string name="price">precio</string>
+    <string name="width">latitud</string>
+    <string name="length">longitud</string>
+    <string name="pizza">pizza</string>
+    <string name="per">de</string>
+    <string name="equals">=</string>
+    <string name="square_unit"> cm²</string>
+    <string name="currency_per_square_unit"> €/m²</string>
+    <string name="save">guardar</string>
+    <string name="add_pizza">&#8592; agregar un pizza &#8594;</string>
+       <string name="compare_pizza">La lista está vacía. \n \n
+           Añadir una pizza al agregado. \n
+           El pizza mas barato está en la parte superior.
+            </string>    
+    
+
+
+    <!-- Descriptions -->
+    <string name="description_add_rectangular_pizza">añadir un pizza rectangular </string>
+    <string name="description_add_round_pizza">añadir un pizza circular</string>
+
+    <!-- Error Messages -->
+    <string name="error_diameter">diámetro es falso</string>
+    <string name="error_width">latitut es falsa</string>
+    <string name="error_length">longitud es falsa</string>
+    <string name="error_name">nombre es falso</string>
+    <string name="error_price">precio es falso</string>
 
 </resources>
