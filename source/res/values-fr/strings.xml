@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Noch nicht übersetzt -->
+    <!-- Pizza Properties -->
+    <string name="app_name">Pizzavergleich</string>
+    <string name="name">Name</string>
+    <string name="diameter">Durchmesser</string>
+    <string name="price">Preis</string>
+    <string name="width">Breite</string>
+    <string name="length">Länge</string>
+    <string name="pizza">Pizza</string>
+    <string name="per">für</string>
+    <string name="save">Speichern</string>
+    <string name="add_pizza">&#8592; Pizza hinzufügen &#8594;</string>
+    <string name="compare_pizza">Hey, deine Liste zum Vergleichen von Pizzen ist momentan noch leer. \n \n
+           Füge einige Pizzen einer Sorte hinzu, wir sortieren sie für dich nach dem Quadratmeterpreis. \n
+           Die Günstigste erscheint oben.</string>
+
+    <!-- Descriptions -->
+    <string name="description_add_rectangular_pizza">Rechteckige Pizza hinzufügen.</string>
+    <string name="description_add_round_pizza">Runde Pizza hinzufügen.</string>
+
+    <!-- Error Messages -->
+    <string name="error_diameter">Fehlerhafter Durchmesser</string>
+    <string name="error_width">Fehlerhafte Breite</string>
+    <string name="error_length">Fehlerhafte Länge</string>
+    <string name="error_name">Fehlerhafter Name</string>
+    <string name="error_price">Fehlerhafter Preis</string>
+
+</resources>
